@@ -12,4 +12,12 @@ Here we need to give Personal Access Token if you are using private repo(Github 
 For manually doing , we don't need togive any triggers
 
 We have to give build steps for free style projects
+![image](https://user-images.githubusercontent.com/92623347/232257934-1775b9ad-9a48-44e6-a057-3552d7c5b93e.png)
+
+and then we click on build now
+
+![image](https://user-images.githubusercontent.com/92623347/232257941-6d49bdd0-a2f2-4451-b18b-48269b2b7df8.png)
+
+Success!!
+
 
