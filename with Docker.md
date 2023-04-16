@@ -19,3 +19,11 @@ and we need toopen 8001 port as we exposed that port in our dockerfile for that 
 and our app looks like this
 
 ![image](https://user-images.githubusercontent.com/92623347/232259727-3f13e1ff-b4c8-4c83-85d6-6e5c8ee6369a.png)
+
+you can use docker-compose instead of docker build and docker run
+![image](https://user-images.githubusercontent.com/92623347/232323410-51b739f8-2b75-4353-9295-2dd448912dce.png)
+
+If you want to buid container everytime without port issue
+
+![image](https://user-images.githubusercontent.com/92623347/232323800-8f363ffa-4866-4d31-b0fd-856bf3c802ed.png)
+
