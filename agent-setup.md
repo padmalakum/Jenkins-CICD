@@ -18,3 +18,15 @@ give all the details for the node  to connect to master and install java on the 
 
 ![image](https://user-images.githubusercontent.com/92623347/232559980-383cf184-eb74-4382-8344-2ef00ba13425.png)
 
+you have to configure your agent to run the job by writing a groovy script 
+
+![image](https://user-images.githubusercontent.com/92623347/232588876-3d9a86df-195e-4e50-af8a-dbd7f529fcee.png)
+
+and run the build now or create a web hook in the github so that it will connect to jenkins and when you make any changes in the github and commit it automatically triggers
+ and your stages will appear like this
+ 
+ ![image](https://user-images.githubusercontent.com/92623347/232589357-2ff62884-0d89-41d1-9b15-29e178e9b456.png)
+
+
+
+
