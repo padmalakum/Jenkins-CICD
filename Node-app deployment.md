@@ -15,6 +15,8 @@ and execute shell commands .
 ![image](https://user-images.githubusercontent.com/92623347/232325478-5d148a00-034e-48af-a0a2-98d9007a3207.png)
 
 and when you change anything in your code in github and commits ,webhook automatically triggers and runs the build resulting new changes inthe deployment
+![image](https://user-images.githubusercontent.com/92623347/232554227-3dc0f2c5-4b78-490c-ac1d-23e1b3d1e7b9.png)
+
 
 
 
